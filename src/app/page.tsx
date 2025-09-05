@@ -25,7 +25,7 @@ export default function Home() {
             <div className="absolute -top-2 -right-2 text-2xl animate-bounce">✨</div>
           </div>
           <p className="text-slate-400 text-lg font-medium">
-            Tired of your friends responding with "up to you"? Well, you can leave it all up to me 😉
+            Tired of your friends responding with &quot;up to you&quot;? Well, you can leave it all up to me 😉
           </p>
           <div className="mt-4 flex justify-center space-x-2">
             <span className="text-purple-400">🎯</span>
